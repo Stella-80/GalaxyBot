@@ -2,7 +2,7 @@
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AkenoXProject/GALAXYBOT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Stella-80/GALAXYBOT)
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ElricX)
 
