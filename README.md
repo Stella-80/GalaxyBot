@@ -6,17 +6,17 @@
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ElricX)
 
-<h1 align="center"> ⚡THE GALAXY BOT ⚡</h1>
+<h1 align="center"> ⚡SYBORG ⚡</h1>
 
 <h5>User Bot For Assisting You Mf</h5>
 
-This Is One Of The Official Userbot's Made By BEAST ARMY PROJECTS.
+This Is One Of The Official Userbot's Made By THE BEAST ARMY PROJECTS.
 
 If You Liked It Than Don't Forget To Give A Star To This Repo.
 
 Enjoy Your Bot!!
 
-[![lìghtyagamiẞø† logo](https://telegra.ph/file/d50b99d0d6a27f0d75946.jpg)](https://t.me/AkenoXSupport)
+[![SYBORGUSERẞø† logo](https://)](https://t.me/AkenoXSupport)
 
 ### The Owner Would Not Be Responsible For Any Kind Of Bans Due To The Bot...
 
