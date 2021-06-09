@@ -51,10 +51,6 @@ Enjoy Your Bot!!
 
 <details>
 
-</details>
-
-<details>
-
   <summary> • THE NORMAL WAY • </summary>
 Simply clone the repository and run the main file:
 
