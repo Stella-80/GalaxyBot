@@ -1,4 +1,4 @@
-<h3>☣️ POWERFUL TELEGRAM USERBOT ☣️</h3>
+<h3>☣️ A POWERFUL TELEGRAM USERBOT ☣️</h3>
 
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
@@ -6,7 +6,7 @@
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/ElricX)
 
-<h1 align="center"> ⚡GALAXY BOT ⚡</h1>
+<h1 align="center"> ⚡THE GALAXY BOT ⚡</h1>
 
 <h5>User Bot For Assisting You Mf</h5>
 
